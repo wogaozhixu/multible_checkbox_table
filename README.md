@@ -28,7 +28,7 @@ The multidimensional options table is suitable for handling authority management
 
 ### Key code
 
-```bash
+```javascript
 // 单个checkbox变化，修改单个选中状态和当前行全选中状态
 onChange = (e, current) => {
   const { checkedLists, data } = this.state;
@@ -131,7 +131,7 @@ onCheckAllChange = current => {
 
 When I change the status of those checkbox, Use antdesign pro api, I can`t get current element, So I add another parameter to get it.
 As show below:
-```bash
+```javascript
 render: (text, record) => {
   const arr = [];
   record.authority.map(item => arr.push(item));
