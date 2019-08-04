@@ -4,7 +4,7 @@ Multi-dimensional option table based on secondary development of antdesign pro p
 
 ## effect picture
 
-![multible_checkbox_table](https://wogaozhixu.github.com/multible_optional_table/src/assets/multible_checkbox_table.png)
+![multible_checkbox_table](https://github.com/wogaozhixu/multible_optional_table/blob/master/src/assets/multible_checkbox_table.png)
 
 ## Environment Prepare
 
