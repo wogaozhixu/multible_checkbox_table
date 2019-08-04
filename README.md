@@ -130,7 +130,7 @@ onCheckAllChange = current => {
 ### Problem during change status
 
 When I change the status of those checkbox, Use antdesign pro api, I can`t get current element, So I add another parameter to get it.
-As show below
+As show below:
 ```bash
 render: (text, record) => {
   const arr = [];
