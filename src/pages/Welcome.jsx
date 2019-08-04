@@ -222,7 +222,7 @@ class MultibleCheckboxTable extends Component {
     ];
 
     return (
-      <Card title="多维度权限选项表格（适用于用户权限管理）">
+      <Card title="多维度选项表格（适用于用户权限管理）">
         <Table columns={columns} dataSource={data} pagination={false} showHeader={false} bordered />
       </Card>
     );
