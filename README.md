@@ -2,6 +2,10 @@
 
 Multi-dimensional option table based on secondary development of antdesign pro project.
 
+## effect picture
+
+![multible_checkbox_table](https://wogaozhixu.github.com/multible_optional_table/src/assets/multible_checkbox_table.png)
+
 ## Environment Prepare
 
 Install `node_modules`:
