@@ -22,9 +22,9 @@ The multidimensional options table is suitable for handling authority management
 
 ### Implementation logic
 
-#1.In the CheckAll Col, All checkboxes have two status: indeterminate or checkall;
-#2.Under the head checkAll Col, if they all checked in checkall, The CheckAll will be in checkall; otherwise it will be in indeterminate;
-#3.Under the authoriry Col, if one Row`s checkboxes all checked, then current Row`s last checkbox will be in the checkall status, otherwise it will be in the indeterminate status;
+1. In the CheckAll Col, All checkboxes have two status: indeterminate or checkall;
+2. Under the head checkAll Col, if they all checked in checkall, The CheckAll will be in checkall; otherwise it will be in indeterminate;
+3. Under the authoriry Col, if one Row`s checkboxes all checked, then current Row`s last checkbox will be in the checkall status, otherwise it will be in the indeterminate status;
 
 ### Key code
 
